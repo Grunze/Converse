@@ -6,3 +6,24 @@ body {
 .product {
   border: 4px solid black;
 }
+
+.product-title {
+  text-align: center;
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.shipping {
+  color: #777;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.more-info:link {
+  color: black;
+}
